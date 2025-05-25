@@ -1,9 +1,3 @@
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-python app.py
-
 # YouTube Video Downloader
 
 A simple web application to download YouTube videos in the highest available quality.
